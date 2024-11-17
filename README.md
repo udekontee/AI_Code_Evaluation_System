@@ -12,6 +12,9 @@ This project evaluates AI-generated Python code for correctness, efficiency, and
 1. Ensure Python is installed.
 2. Clone this repository.
 3. Navigate to the project directory and run:
-   ```bash
+  
+ ```bash
    python main.py
+
+
 
