@@ -19,7 +19,7 @@ This project demonstrates the ability to:
 1. Ensure Python is installed on your system.
 2. Clone this repository to your local machine.
 3. Navigate to the project directory and run:
-
-
-   ```bash
+ 
+  ```bash
    python main.py
+
