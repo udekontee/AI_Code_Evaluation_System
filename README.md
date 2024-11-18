@@ -1,20 +1,25 @@
-# AI Code Evaluation System
+# Project: AI Code Evaluation System
 
-## Overview
-This project evaluates AI-generated Python code for correctness, efficiency, and readability.
+## Project Overview
+This project demonstrates the ability to:
 
-## Features
-- Run test cases for AI-generated Python functions.
-- Measure execution time for efficiency.
-- Visualize results using bar charts.
+- Evaluate AI-generated Python code for correctness, efficiency, and readability.
+- Solve coding challenges by writing efficient and functional Python solutions.
+- Write robust test cases to confirm correctness and performance.
+- Provide human-readable rationales for evaluations.
+- Compare and improve AI-generated solutions.
+
+## Key Features
+- Evaluate multiple AI-generated solutions for a single problem.
+- Measure execution time and correctness for test cases.
+- Provide a summary of which solution is better and why.
+- Write instructions for improving a chatbot’s responses.
 
 ## How to Run
-1. Ensure Python is installed.
-2. Clone this repository.
+1. Ensure Python is installed on your system.
+2. Clone this repository to your local machine.
 3. Navigate to the project directory and run:
-  
- ```bash
+
+
+   ```bash
    python main.py
-
-
-
